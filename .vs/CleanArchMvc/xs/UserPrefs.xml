@@ -1,0 +1,35 @@
+﻿<Properties StartupConfiguration="{627F7709-E237-414D-952F-B51E3482DF5E}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="CleanArchMvc.Domain/Entities/Category.cs">
+    <Files>
+      <File FileName="CleanArchMvc.IoC/Class1.cs" Line="7" Column="1" />
+      <File FileName="CleanArchMvc.WebUI/Program.cs" Line="18" Column="1" />
+      <File FileName="CleanArchMvc.Domain/Entities/EmptyClass.cs" Line="27" Column="38" />
+      <File FileName="CleanArchMvc.Domain/Entities/Product.cs" Line="14" Column="49" />
+      <File FileName="CleanArchMvc.Domain/Validation/DomainExceptionValidation.cs" Line="4" Column="40" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CleanArchMvc" expanded="True">
+            <Node name="CleanArchMvc.Domain" expanded="True">
+              <Node name="Entities" expanded="True">
+                <Node name="Category.cs" selected="True" />
+              </Node>
+              <Node name="Validation" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.CleanArchMvc.WebUI PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.CleanArchMvc.IoC FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.CleanArchMvc.Infra.Data FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.CleanArchMvc.Application FirstBuild="True" />
+</Properties>
